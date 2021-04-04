@@ -17,9 +17,7 @@ public class Zafall {
 
         Random y = new Random();
         moin1 = y.nextInt(500);
-
     }
-
 
     public int getMoin() {
         return moin;
